@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){document.getElementById("loading-screen").style.display="none",document.addEventListener("click",function(e){"close_btn"===e.target.id&&(e.target.style.display="none",document.getElementById("navbar").style.display="none")})});
